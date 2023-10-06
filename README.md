@@ -2,7 +2,7 @@
 
 Welcome to the Supply Chain Analytics - Just In Time Dashboard repository. This repository contains the data and files related to the comprehensive analysis conducted on Just In Time's supply chain operations using Power BI. The "Just In Time" supply chain data is visualized and analyzed through the interactive Power BI dashboard, enabling users to gain valuable insights into the company's supply chain performance.
 
-![Supply Chain Analytics Dashboard](https://github.com/thegreatfaizan/Supply-Chain-Analytics-using-Power-BI/assets/56816343/558703dc-317b-4e91-bf18-616e566f68fc)
+![Supply Chain Analytics Dashboard](https://github.com/thegreatfaizan/Supply-Chain-Analytics-using-Power-BI/blob/main/Supply%20Chain%20Analytics%20Dashboard.jpg)
 
 ## Dashboard Features
 - *Real-time Insights:* The dashboard provides real-time or near-real-time insights into Just In Time's supply chain data, allowing stakeholders to monitor and respond to supply chain events as they occur.
